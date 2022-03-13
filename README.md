@@ -28,3 +28,5 @@ truffle migrate
 ```bash
 npm start
 ```
+### Here's a preview of the finished application:
+![](./app-img.png)
